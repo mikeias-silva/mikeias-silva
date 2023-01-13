@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @mikeias-silva
-- 🌱 I’m currently learning data analysis to master's degree in applied computing.
+- 🌱 I’m backend developer
+- 🖥️ Javascript, PHP
 
 - 📫 How to reach me:
   - E-mail: mikeias26@gmail.com
